@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Ajay's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gajeraajay2001?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
+</br></br></br>
+![I prefer to use](https://github-readme-stats.vercel.app/api/top-langs?username=gajeraajay2001&show_icons=true&theme=dark&layout=compact)
+</br></br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gajeraajay2001&theme=dark"/>
